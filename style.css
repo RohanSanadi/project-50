@@ -1,0 +1,22 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    }
+    .grid{
+        display:flex ;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        }
+        body{
+            background-color:rgba(1, 250, 208, 0.555)
+        }
+        
+        .footer{
+            display:flex ;
+            justify-content: flex-end;
+            
+            }
+        h2,p{
+            text-align: center;
+        }
+            
